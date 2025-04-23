@@ -58,6 +58,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-amqp</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>io.getunleash</groupId>
+			<artifactId>unleash-client-java</artifactId>
+			<version>LATEST</version>
+		</dependency>
 
 	</dependencies>
 
